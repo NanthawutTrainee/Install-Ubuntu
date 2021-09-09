@@ -53,4 +53,17 @@
 รอติดตั้งจนเสร็จแล้วทำการ Reboot เป็นอันเสร็จเรียบร้อย
 <p align="center"><img src="Ubuntu/22.png" width=500></p>
 
+```sh
+sudo apt update
+
+```
+```sh
+    sudo apt install git
+```
+```sh
+sudo apt install nodejs
+
+```
+<p align="center"><img src="Ubuntu/25.png" width=500></p>
+<p align="center"><img src="Ubuntu/26.png" width=500></p>
 
