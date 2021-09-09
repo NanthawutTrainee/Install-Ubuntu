@@ -58,7 +58,7 @@ sudo apt update
 
 ```
 ```sh
-    sudo apt install git
+sudo apt install git
 ```
 ```sh
 sudo apt install nodejs
